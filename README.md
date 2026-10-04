@@ -8,7 +8,7 @@
 Learning DSA · Building AI/ML projects · Exploring new technologies
 
 ### Tech
-C++ · Python · HTML · CSS · Git · GitHub · Machine Learning
+C++ · C · Python · HTML · CSS · Git · GitHub · Machine Learning
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/mahek-kureshi-5b469831a/?isSelfProfile=true) · [Email](mahekaltafkureshi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mahek-kureshi-5b469831a/?isSelfProfile=true) · [Email](mailto:mahekaltakureshi@gmail.com)
