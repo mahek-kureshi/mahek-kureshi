@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mahek 👋
 
-<!--
-**mahek-kureshi/mahek-kureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE student at SVNIT, Surat  
+🤖 Exploring AI/ML and Generative AI  
+🔬 Interested in Federated Learning and privacy-preserving ML
 
-Here are some ideas to get you started:
+### Currently
+Learning DSA · Building AI/ML projects · Exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+C++ · Python · HTML · CSS · Git · GitHub · Machine Learning
+
+### Connect
+[LinkedIn](https://www.linkedin.com/in/mahek-kureshi-5b469831a/?isSelfProfile=true) · [Email](mahekaltafkureshi@gmail.com)
